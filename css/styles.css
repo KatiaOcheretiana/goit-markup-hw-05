@@ -556,7 +556,7 @@ img {
 
 .service-card:hover .card-cover-text,
 .service-card:focus .card-cover-text {
-  transform: translateY(0);
+  transform: translateY(0%);
 }
 
 .card-link {
