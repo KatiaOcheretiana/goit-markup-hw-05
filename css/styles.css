@@ -555,9 +555,9 @@ img {
 }
 
 
-.service-card:focus .card-cover-text {
+/* .service-card:focus .card-cover-text {
   transform: translateY(0%);
-}
+} */
 .service-card:hover .card-cover-text {
   transform: translateY(0%);
 }
