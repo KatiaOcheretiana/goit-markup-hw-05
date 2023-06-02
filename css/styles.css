@@ -554,10 +554,8 @@ img {
   width: calc((100% - 48px) / 3);
 }
 
-.service-card:focus .card-cover-text {
-  transform: translateY(0%);
-}
-.service-card:hover .card-cover-text {
+.card-link:focus .card-cover-text,
+.card-link:hover .card-cover-text {
   transform: translateY(0%);
 }
 
